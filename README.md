@@ -25,7 +25,12 @@ npm install
 
 Projeyi çalıştır:
 npm run dev
+
+Proje içi fotoğraflar:
+**Home**
 ![1](https://github.com/user-attachments/assets/3882db55-457e-45f3-819e-bf471d6d508b)
+
+**Menu**
 ![2](https://github.com/user-attachments/assets/c27a8965-51c2-4fc8-83e2-7c9b2dca46dd)
 
 
