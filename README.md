@@ -7,7 +7,7 @@ Pizza Toco, React, HTML, CSS ve JavaScript kullanılarak geliştirilmiş modern 
 - 🎨 **CSS3** - Stil ve tasarım
 - 🛠 **JavaScript (ES6+)** - Dinamik etkileşimler
 - 📦 **Node.js & npm** - Paket yönetimi
--  🔹 Mobile uyumlu
+-  **Mobile uyumlu**
   
 📌 Özellikler
 ✅ Şık ve modern tasarım
